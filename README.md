@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 **
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
