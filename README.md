@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/chiragpuniyanii/chiragpuniyanii/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/chiragpuniyanii/chiragpuniyanii/blob/main/github-contribution-grid-snake.svg(1)" alt="Snake animation" />
 
 ###
