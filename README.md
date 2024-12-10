@@ -51,22 +51,22 @@ I am continuously exploring emerging technologies to stay at the forefront of th
 
 ### 📌 Featured Projects:
 
-- **[Super Mario Game on AWS EKS](https://github.com/yourusername/super-mario-game-on-aws-eks)**  
+- **[Super Mario Game on AWS EKS](https://github.com/chiragpuniyanii/super-mario-game-on-aws-eks)**  
   A project demonstrating the deployment of the **Super Mario game** on **AWS EKS** using **Kubernetes**.
 
-- **[Dating Website with MySQL](https://github.com/yourusername/dating-website)**  
+- **[Dating Website with MySQL](https://github.com//chiragpuniyanii/dating-website)**  
   A personal project featuring a **dating app** integrated with a **MySQL** database and hosted on **AWS EC2** with **Docker**.
 
-- **[CS-Cart Docker Setup](https://github.com/yourusername/cscart-docker)**  
+- **[CS-Cart Docker Setup]**  
   A Dockerized solution for deploying **CS-Cart** on any **Linux** server, simplifying the deployment process for eCommerce websites.
 
 ---
 
 ### 💼 Professional Experience
 
-**Cloud Engineer | XYZ Corp**  
+**Cloud Engineer | RR infotech**  
 *Jan 2023 - Present*  
-- Designed and managed cloud infrastructure using **AWS**, **Docker**, and **Kubernetes**.
+- Designed and managed cloud infrastructure using **AWS**, **Docker**, and **Kubernetes**,**VPC**.
 - Automated deployment processes and server management with **Bash** and **Python** scripts.
 - Enhanced system performance and scalability for cloud applications.
 
